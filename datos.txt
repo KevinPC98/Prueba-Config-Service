@@ -1,4 +1,2 @@
-{
-nombre: "Kman",
+nombre: Kman
 edad: 22
-}
